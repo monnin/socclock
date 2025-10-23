@@ -1,0 +1,25 @@
+.header {
+	width: 100%;
+	background-color: darkblue;
+	color: white;
+	padding: 1em;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	}
+
+.extratext { font-style: italic; }
+
+.status {
+	width: 100%;
+	font-size: 2em;
+	text-align: center;
+	}
+
+.button { 
+	border-radius: 4px;
+	height: 2em;
+	}
+
+.horizontal { display: flex; gap: 30px; }
+.hblock { } 
